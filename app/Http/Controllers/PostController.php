@@ -17,9 +17,6 @@ class PostController extends Controller
     
     public function store(Request $req){
 
-        echo $req->title;
-        echo $req->description;
-
         return redirect()->route('post.index');
     }
     
