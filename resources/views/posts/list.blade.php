@@ -9,8 +9,9 @@
 </head>
 <body>
     <div class="jumbotron d-flex justify-content-between">
-       <h4>All Posts</h4>
+       <h2>All Posts</h2>
         <a class="btn btn-success btn-link" href="{{route('post.create')}}">Add Post</a>
+        <p>Here comes the list</p>
     </div>
 
 </body>
