@@ -12,6 +12,7 @@
        <h2>All Posts</h2>
         <a class="btn btn-success btn-link" href="{{route('post.create')}}">Add Post</a>
         <p>Here comes the list</p>
+        <a href="#">Test</a>
     </div>
 
 </body>
