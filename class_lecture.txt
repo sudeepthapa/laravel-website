@@ -1,0 +1,3 @@
+To make controller : php artisan make:controller <ControllerName>
+
+Post - title, description, timestamp, id
